@@ -1,2 +1,2 @@
 # print - это функция
-print("Hello world")
+print("Hello world!")
