@@ -1,5 +1,5 @@
-R = 1 # $
-N = 1 # year
+R = 100 # $
+N = 50 # year
 
 def hardpercent():
 	#for N in range(1, 46):
